@@ -235,7 +235,7 @@ Real-time data insight management with automated workflow operations and predict
 </div>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilpreetvila&theme=tokyonight&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=2D1B69&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilpreetviia-netizen&theme=tokyonight&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=2D1B69&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
 </p>
 
 <br>
