@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- Animated Banner -->
+<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B2E,100:2D1B69&height=220&section=header&text=PREET%20PATIL&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Engineer&descSize=18&descAlignY=55&animation=fadeIn&duration=2000" width="100%"/>
 
-<!-- Typing SVG -->
 <br>
+
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=AI+%2F+ML+Engineer;Full-Stack+Developer;Product+Engineer" alt="Typing SVG" />
 
 <br><br>
 
-<!-- Profile Views & Followers Badges -->
+<!-- Status Badges -->
 <img src="https://komarev.com/ghpvc/?username=patilpreetvila&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&prefix=&" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Followers-patilpreetvila-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
 
@@ -17,22 +18,20 @@
 
 <br>
 
-<div align="center">
-
 <!-- Social Links -->
+<div align="center">
 <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/patilpreetvila"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
 </div>
 
 <br>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <div align="center">
 
-```diff
-+  Crafting intelligent systems & scalable digital experiences  -
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
@@ -42,7 +41,7 @@
 <!-- About Section -->
 <div align="center">
 
-### 👋 About Me
+### <img src="https://img.shields.io/badge/ABOUT_ME-7C3AED?style=for-the-badge&logo=user&logoColor=white" alt="About Me"/>
 
 </div>
 
@@ -65,15 +64,15 @@ Specialized in architecting intelligent, data-driven systems and scalable web ap
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Currently Working On
+### Current Focus
 - Advanced Neural Network Architectures
 - Multi-agent AI Workflow Automation
 
-### 🌱 Currently Learning
+### Currently Learning
 - Deep Reinforcement Learning
 - Generative AI Engineering
 
-### 💡 Open To
+### Open To
 - High-impact AI/ML internships
 - Open-source contributions
 - Collaborative projects
@@ -87,7 +86,7 @@ Specialized in architecting intelligent, data-driven systems and scalable web ap
 <!-- Tech Stack -->
 <div align="center">
 
-### 🛠️ Tech Stack
+### <img src="https://img.shields.io/badge/TECH_STACK-7C3AED?style=for-the-badge&logo=tools&logoColor=white" alt="Tech Stack"/>
 
 </div>
 
@@ -138,10 +137,21 @@ Specialized in architecting intelligent, data-driven systems and scalable web ap
 
 <br>
 
+<!-- Divider -->
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<br>
+
 <!-- Featured Projects -->
 <div align="center">
 
-### 🏆 Featured Projects
+### <img src="https://img.shields.io/badge/FEATURED_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 
 </div>
 
@@ -153,7 +163,7 @@ Specialized in architecting intelligent, data-driven systems and scalable web ap
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=patilpreetvila&repo=intelligent-ecommerce&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&border_color=2D1B69&show_owner=true" alt="E-Commerce Project"/>
 </a>
 
-**🌐 Intelligent MERN E-Commerce Engine**
+**Intelligent MERN E-Commerce Engine**
 
 Enterprise-grade E-Commerce platform powered by MERN stack with AI recommendation layer.
 
@@ -171,7 +181,7 @@ Enterprise-grade E-Commerce platform powered by MERN stack with AI recommendatio
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=patilpreetvila&repo=analytics-dashboard&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&border_color=2D1B69&show_owner=true" alt="Analytics Dashboard"/>
 </a>
 
-**🧠 Predictive Analytics Dashboard**
+**Predictive Analytics Dashboard**
 
 Real-time data insight management with automated workflow operations and predictive modeling.
 
@@ -191,7 +201,7 @@ Real-time data insight management with automated workflow operations and predict
 <!-- GitHub Stats -->
 <div align="center">
 
-### 📊 GitHub Analytics
+### <img src="https://img.shields.io/badge/GITHUB_ANALYTICS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Analytics"/>
 
 </div>
 
@@ -217,7 +227,7 @@ Real-time data insight management with automated workflow operations and predict
 <!-- Trophies -->
 <div align="center">
 
-### 🏅 GitHub Trophies
+### <img src="https://img.shields.io/badge/GITHUB_TROPHIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Trophies"/>
 
 </div>
 
@@ -230,7 +240,7 @@ Real-time data insight management with automated workflow operations and predict
 <!-- Activity Graph -->
 <div align="center">
 
-### 📈 Contribution Activity
+### <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Activity"/>
 
 </div>
 
@@ -240,10 +250,21 @@ Real-time data insight management with automated workflow operations and predict
 
 <br>
 
+<!-- Divider -->
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<br>
+
 <!-- Experience -->
 <div align="center">
 
-### 💼 Experience
+### <img src="https://img.shields.io/badge/EXPERIENCE-7C3AED?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience"/>
 
 </div>
 
@@ -251,7 +272,7 @@ Real-time data insight management with automated workflow operations and predict
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 AI & No-Code Intern
+#### AI & No-Code Intern
 **Elite Forums** | *May 2026 - Aug 2026*
 
 - Led state-of-the-art research on emerging AI algorithms
@@ -264,7 +285,7 @@ Real-time data insight management with automated workflow operations and predict
 </td>
 <td width="50%" valign="top">
 
-#### 🎓 Engineering Student
+#### Engineering Student
 **Bhausaheb Vartak Polytechnic** | *Jun 2024 - Apr 2027*
 
 - Navigated multi-tier academic and industrial software modules
@@ -282,7 +303,7 @@ Real-time data insight management with automated workflow operations and predict
 <!-- Certifications -->
 <div align="center">
 
-### 📜 Certifications
+### <img src="https://img.shields.io/badge/CERTIFICATIONS-7C3AED?style=for-the-badge&logo=award&logoColor=white" alt="Certifications"/>
 
 </div>
 
@@ -298,7 +319,7 @@ Real-time data insight management with automated workflow operations and predict
 <!-- Coding Profiles -->
 <div align="center">
 
-### 💻 Coding Profiles
+### <img src="https://img.shields.io/badge/CODING_PROFILES-7C3AED?style=for-the-badge&logo=code&logoColor=white" alt="Coding Profiles"/>
 
 </div>
 
@@ -314,7 +335,7 @@ Real-time data insight management with automated workflow operations and predict
 <!-- Connect -->
 <div align="center">
 
-### 📬 Connect With Me
+### <img src="https://img.shields.io/badge/CONNECT-7C3AED?style=for-the-badge&logo=mail&logoColor=white" alt="Connect"/>
 
 </div>
 
