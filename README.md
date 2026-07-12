@@ -1,7 +1,7 @@
 # Profile
 
 <p align="center">
-  <img src="https://capsule-render.herokuapp.com/api?type=wave&color=auto&height=250&section=header&text=Preet%20Patil&fontSize=70&animation=fadeIn&theme=dark" alt="Capsule Render Wave Banner" />
+  <img src="https://i.ibb.co/VY1f1L88/973481275751415107.jpg" alt="Capsule Render Wave Banner" />
 </p>
 
 <p align="center">
