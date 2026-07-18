@@ -1,298 +1,314 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B2E,100:2D1B69&height=220&section=header&text=PREET%20PATIL&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Engineer&descSize=18&descAlignY=55&animation=fadeIn&duration=2000" width="100%"/>
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B2E,100:2D1B69&height=230&text=PREET%20PATIL&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%C2%B7%20FULL-STACK%20DEVELOPER%20%C2%B7%20PRODUCT%20ENGINEER&descSize=15&descAlign=50&descAlignY=62&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+
+<!-- Typing SVG — monospace, professional -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=%3E+building+intelligent+systems+that+ship;%3E+AI%20%2F%20ML+%C2%B7+full-stack+%C2%B7+product+engineering;%3E+shipping+with+LLMs+and+autonomous+agents" alt="Typing SVG" />
 
 <br>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=AI+%2F+ML+Engineer;Full-Stack+Developer;Product+Engineer" alt="Typing SVG" />
+<a href="https://github.com/patilpreet"><img src="https://komarev.com/ghpvc/?username=patilpreet&style=for-the-badge&color=7C3AED&label=PROFILE%20VIEWS&prefix=" alt="Profile Views" /></a>
+<a href="https://github.com/patilpreet?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7C3AED&label=FOLLOWERS&query=followers&url=https://api.github.com/users/patilpreet&logo=github&logoColor=white" alt="Followers" /></a>
+<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to Work" /></a>
 
 <br><br>
 
-<!-- Status Badges -->
-<img src="https://komarev.com/ghpvc/?username=patilpreetvila&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&prefix=&" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Followers-patilpreetvila-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+<!-- Nav Bar -->
+<a href="#about"><img src="https://img.shields.io/badge/01_ABOUT-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#stack"><img src="https://img.shields.io/badge/02_STACK-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#projects"><img src="https://img.shields.io/badge/03_PROJECTS-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#analytics"><img src="https://img.shields.io/badge/04_ANALYTICS-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#experience"><img src="https://img.shields.io/badge/05_EXPERIENCE-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#contact"><img src="https://img.shields.io/badge/06_CONTACT-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2D1B69&height=3" width="100%"/>
+
+<br>
+<a name="about"></a>
+
+<div align="center">
+<img src="https://img.shields.io/badge/§_01-ABOUT_ME-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="About Me"/>
+<br>
+<sub>WHO I AM &amp; WHAT I'M BUILDING TOWARD</sub>
 </div>
 
 <br>
-
-<!-- Social Links -->
-<div align="center">
-<a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/patilpreetvila"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-
-<br>
-
-<!-- Divider -->
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<br>
-
-<!-- About Section -->
-<div align="center">
-
-### <img src="https://img.shields.io/badge/ABOUT_ME-7C3AED?style=for-the-badge&logo=user&logoColor=white" alt="About Me"/>
-
-</div>
-
-<p align="center">
-  <img src="https://i.ibb.co/VY1f1L88/973481275751415107.jpg" alt="Profile" width="150" style="border-radius: 50%; border: 3px solid #7C3AED;"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="500"/>
-</p>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="30%" align="center" valign="middle">
 
-An ambitious and results-driven **AI/ML Student** and **Full-Stack Developer** with a rigorous product engineering mindset.
+<img src="https://i.ibb.co/TxYvZwtp/cropped-circle-image.png" alt="Profile" width="170" style="border-radius: 50%; border: 3px solid #7C3AED;"/>
 
-Specialized in architecting intelligent, data-driven systems and scalable web applications. Proven capabilities in accelerating product life cycles and designing seamless user experiences.
+<br><br>
+
+<a href="https://www.linkedin.com/in/preet-patil-719866366/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
+<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br>
+<a href="https://github.com/patilpreet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
-### Current Focus
-- Advanced Neural Network Architectures
-- Multi-agent AI Workflow Automation
+An ambitious and results-driven **AI/ML Student** and **Full-Stack Developer** with a rigorous product engineering mindset — specialized in architecting intelligent, data-driven systems and scalable web applications.
 
-### Currently Learning
-- Deep Reinforcement Learning
-- Generative AI Engineering
+<sub>▪ ▪ ▪&nbsp;&nbsp;<b>profile.yaml</b></sub>
 
-### Open To
-- High-impact AI/ML internships
-- Open-source contributions
-- Collaborative projects
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Tech Stack -->
-<div align="center">
-
-### <img src="https://img.shields.io/badge/TECH_STACK-7C3AED?style=for-the-badge&logo=tools&logoColor=white" alt="Tech Stack"/>
-
-</div>
-
-<p align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-<br><br>
-
-<!-- Frameworks -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-
-<br><br>
-
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-
-<br><br>
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-
-<br><br>
-
-<!-- DevOps & Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
-</p>
-
-<br>
-
-<!-- Divider -->
-<div align="center">
-
+```yaml
+engineer:
+  name: "Preet Patil"
+  roles: ["AI/ML Engineer", "Full-Stack Developer", "Product Engineer"]
+  focus: "Building intelligent systems that ship"
+  learning: ["Deep Reinforcement Learning", "Generative AI Engineering"]
+  open_to: ["AI/ML Internships", "Open Source", "Collaborations"]
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<br>
-
-<!-- Featured Projects -->
-<div align="center">
-
-### <img src="https://img.shields.io/badge/FEATURED_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-
-</div>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/patilpreetvila/intelligent-ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patilpreetvila&repo=intelligent-ecommerce&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&border_color=2D1B69&show_owner=true" alt="E-Commerce Project"/>
-</a>
+**◆ CURRENT FOCUS**
+<sub>
+▸ Advanced Neural Network Architectures<br>
+▸ Multi-agent AI Workflow Automation
+</sub>
 
-**Intelligent MERN E-Commerce Engine**
+</td>
+<td width="50%" valign="top">
 
-Enterprise-grade E-Commerce platform powered by MERN stack with AI recommendation layer.
+**◆ CURRENTLY LEARNING**
+<sub>
+▸ Deep Reinforcement Learning<br>
+▸ Generative AI Engineering
+</sub>
 
-`MongoDB` `Express.js` `React` `Node.js` `Python FastAPI`
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=600&height=25&lines=%22Code+is+the+closest+thing+we+have+to+magic.%22" alt="quote"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,100:7C3AED&height=3" width="100%"/>
 
 <br>
-<a href="https://github.com/patilpreetvila/intelligent-ecommerce">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+<a name="stack"></a>
+
+<div align="center">
+<img src="https://img.shields.io/badge/§_02-TECH_ARSENAL-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="Tech Arsenal"/>
+<br>
+<sub>LANGUAGES · FRAMEWORKS · AI %2F ML · INFRASTRUCTURE</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+<sub><b>LANGUAGES</b></sub><br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
+
+<br><br>
+
+<sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
+
+<br><br>
+
+<sub><b>AI / ML</b></sub><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br><br>
+
+<sub><b>DATABASES</b></sub><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
+
+<br><br>
+
+<sub><b>DEVOPS &amp; TOOLING</b></sub><br>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub><b>PROFICIENCY INDEX</b></sub>
+
+<br><br>
+
+<img src="https://progress-bar.dev/80/?title=Python&width=280&color=7c3aed&title_color=eeeeee"/><br>
+<img src="https://progress-bar.dev/85/?title=React+%2F+Next.js&width=280&color=7c3aed&title_color=eeeeee"/><br>
+<img src="https://progress-bar.dev/75/?title=JavaScript+%2F+TypeScript&width=280&color=7c3aed&title_color=eeeeee"/><br>
+<img src="https://progress-bar.dev/70/?title=Machine+Learning&width=280&color=7c3aed&title_color=eeeeee"/><br>
+<img src="https://progress-bar.dev/75/?title=Node.js+%2F+Express&width=280&color=7c3aed&title_color=eeeeee"/><br>
+<img src="https://progress-bar.dev/65/?title=Databases&width=280&color=7c3aed&title_color=eeeeee"/><br>
+<img src="https://progress-bar.dev/55/?title=DevOps&width=280&color=7c3aed&title_color=eeeeee"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2D1B69&height=3" width="100%"/>
+
+<br>
+<a name="projects"></a>
+
+<div align="center">
+<img src="https://img.shields.io/badge/§_03-FEATURED_PROJECTS-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="Featured Projects"/>
+<br>
+<sub>LIVE PRODUCTS I'VE SHIPPED AND DEPLOYED</sub>
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://sub-ai-iota.vercel.app/"><img src="https://image.thum.io/get/width/500/crop/720/noanimate/https://sub-ai-iota.vercel.app/" alt="SubAI Preview" width="100%" style="border-radius: 10px; border: 1px solid #2D1B69;"/></a>
+
+<br><br>
+
+<a href="https://sub-ai-iota.vercel.app/"><img src="https://img.shields.io/badge/●_LIVE-16A34A?style=for-the-badge&logoColor=white" alt="Live"/></a>
+
+**SubAI — AI Captions for Indian Creators**
+
+A browser-native caption studio that generates frame-accurate Hindi, English, and Hinglish captions for videos, powered by Groq Whisper. Ships with a timeline editor and custom style presets.
+
+<sub>`Groq Whisper` `Speech-to-Text` `Hinglish NLP` `Next.js`</sub>
+
+<a href="https://sub-ai-iota.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live"/>
+</a>
+<a href="https://github.com/patilpreet/SubAi">
+<img src="https://img.shields.io/badge/VIEW_CODE-1A1B2E?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
 </a>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<a href="https://github.com/patilpreetvila/analytics-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patilpreetvila&repo=analytics-dashboard&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&border_color=2D1B69&show_owner=true" alt="Analytics Dashboard"/>
+<a href="https://assignment-1-genrage.vercel.app/"><img src="https://image.thum.io/get/width/500/crop/720/noanimate/https://assignment-1-genrage.vercel.app/" alt="Generage Preview" width="100%" style="border-radius: 10px; border: 1px solid #2D1B69;"/></a>
+
+<br><br>
+
+<a href="https://assignment-1-genrage.vercel.app/"><img src="https://img.shields.io/badge/●_LIVE-16A34A?style=for-the-badge&logoColor=white" alt="Live"/></a>
+
+**Generage — React E-Commerce Platform**
+
+A full-stack e-commerce web application with product listings, cart handling, and an integrated backend/API layer managing data flow between client and server.
+
+<sub>`React` `E-Commerce` `REST API` `Full-Stack`</sub>
+
+<a href="https://assignment-1-genrage.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live"/>
 </a>
-
-**Predictive Analytics Dashboard**
-
-Real-time data insight management with automated workflow operations and predictive modeling.
-
-`Python` `SciKit-Learn` `React` `Tailwind CSS`
-
-<br>
-<a href="https://github.com/patilpreetvila/analytics-dashboard">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+<a href="https://github.com/patilpreet/Assignment-1-GENRAGE-">
+<img src="https://img.shields.io/badge/VIEW_CODE-1A1B2E?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<!-- GitHub Stats -->
 <div align="center">
-
-### <img src="https://img.shields.io/badge/GITHUB_ANALYTICS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Analytics"/>
-
+<sub>▸ Check out my <a href="https://github.com/patilpreet?tab=repositories">full repository catalog</a> for more.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,100:7C3AED&height=3" width="100%"/>
+
+<br>
+<a name="analytics"></a>
+
+<div align="center">
+<img src="https://img.shields.io/badge/§_04-GITHUB_ANALYTICS-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="GitHub Analytics"/>
+<br>
+<sub>ACTIVITY, LANGUAGES &amp; CONTRIBUTION HISTORY</sub>
+</div>
+
+<br>
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=patilpreetvila&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&border_color=2D1B69&count_private=true" alt="GitHub Stats" width="400"/>
+<a href="https://github.com/patilpreet"><img src="https://github-readme-stats.vercel.app/api?username=patilpreet&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&border_color=2D1B69&count_private=true" alt="GitHub Stats" width="400"/></a>
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patilpreetvila&theme=tokyonight&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280" alt="GitHub Streak" width="400"/>
+<a href="https://github.com/patilpreet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=patilpreet&theme=tokyonight&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280" alt="GitHub Streak" width="400"/></a>
 </td>
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilpreetvila&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&border_color=2D1B69&langs_count=8" alt="Top Languages" width="400"/>
+<a href="https://github.com/patilpreet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilpreet&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&border_color=2D1B69&langs_count=8" alt="Top Languages" width="420"/></a>
 </p>
 
+<details>
+<summary align="center"><b>▸ GitHub Trophies</b></summary>
 <br>
-
-<!-- Trophies -->
-<div align="center">
-
-### <img src="https://img.shields.io/badge/GITHUB_TROPHIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Trophies"/>
-
-</div>
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=patilpreetvila&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=patilpreet&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
 </p>
+</details>
 
+<details>
+<summary align="center"><b>▸ Contribution Activity</b></summary>
 <br>
-
-<!-- Activity Graph -->
-<div align="center">
-
-### <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Activity"/>
-
-</div>
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilpreetviia-netizen&theme=tokyonight&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=2D1B69&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilpreet&theme=tokyonight&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=2D1B69&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
 </p>
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2D1B69&height=3" width="100%"/>
 
 <br>
+<a name="experience"></a>
 
-<!-- Divider -->
 <div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
+<img src="https://img.shields.io/badge/§_05-EXPERIENCE-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="Experience"/>
+<br>
+<sub>WORK HISTORY &amp; ACADEMIC BACKGROUND</sub>
 </div>
 
 <br>
-
-<!-- Experience -->
-<div align="center">
-
-### <img src="https://img.shields.io/badge/EXPERIENCE-7C3AED?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience"/>
-
-</div>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-#### AI & No-Code Intern
-**Elite Forums** | *May 2026 - Aug 2026*
+**AI &amp; No-Code Intern**
+<sub>Elite Forums &nbsp;·&nbsp; May 2026 – Aug 2026</sub>
 
-- Led state-of-the-art research on emerging AI algorithms
-- Analyzed key performance indicators across data ecosystems
-- Developed scalable cross-department task-delegation architectures
-- Partnered with HR to deploy strategic digital workflow tools
+<sub>
+▸ Led state-of-the-art research on emerging AI algorithms<br>
+▸ Analyzed key performance indicators across data ecosystems<br>
+▸ Developed scalable cross-department task-delegation architectures<br>
+▸ Partnered with HR to deploy strategic digital workflow tools
+</sub>
 
-`AI and ML` `No-Code Architecture` `Prompt Engineering` `Project Management`
+<br><br>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-1A1B2E?style=flat-square&color=1A1B2E&labelColor=7C3AED"/> <img src="https://img.shields.io/badge/NO--CODE-1A1B2E?style=flat-square&color=1A1B2E&labelColor=7C3AED"/> <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-1A1B2E?style=flat-square&color=1A1B2E&labelColor=7C3AED"/> <img src="https://img.shields.io/badge/PROJECT%20MGMT-1A1B2E?style=flat-square&color=1A1B2E&labelColor=7C3AED"/>
 
 </td>
 <td width="50%" valign="top">
 
-#### Engineering Student
-**Bhausaheb Vartak Polytechnic** | *Jun 2024 - Apr 2027*
+**Engineering Student**
+<sub>Bhausaheb Vartak Polytechnic &nbsp;·&nbsp; Jun 2024 – Apr 2027</sub>
 
-- Navigated multi-tier academic and industrial software modules
-- Contributed high-impact foundational ideas across project teams
-- Collaborated inside multi-disciplinary engineering circles
+<sub>
+▸ Navigated multi-tier academic and industrial software modules<br>
+▸ Contributed high-impact foundational ideas across project teams<br>
+▸ Collaborated inside multi-disciplinary engineering circles
+</sub>
 
-`MERN Stack` `Web Development` `Data Structures` `Team Collaboration`
+<br><br>
+<img src="https://img.shields.io/badge/MERN%20STACK-1A1B2E?style=flat-square&color=1A1B2E&labelColor=16A34A"/> <img src="https://img.shields.io/badge/WEB%20DEV-1A1B2E?style=flat-square&color=1A1B2E&labelColor=16A34A"/> <img src="https://img.shields.io/badge/DATA%20STRUCTURES-1A1B2E?style=flat-square&color=1A1B2E&labelColor=16A34A"/> <img src="https://img.shields.io/badge/TEAM%20COLLAB-1A1B2E?style=flat-square&color=1A1B2E&labelColor=16A34A"/>
 
 </td>
 </tr>
@@ -300,28 +316,18 @@ Real-time data insight management with automated workflow operations and predict
 
 <br>
 
-<!-- Certifications -->
-<div align="center">
-
-### <img src="https://img.shields.io/badge/CERTIFICATIONS-7C3AED?style=for-the-badge&logo=award&logoColor=white" alt="Certifications"/>
-
-</div>
+<div align="center"><sub><b>CERTIFICATIONS</b></sub></div>
+<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-Academy%20Graduate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/NPTEL-AI%20%26%20ML-004B87?style=for-the-badge&logo=education&logoColor=white" alt="NPTEL"/>
+<img src="https://img.shields.io/badge/NPTEL-AI%20%26%20ML-004B87?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NPTEL"/>
 <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1B365D?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
+<div align="center"><sub><b>CODING PROFILES</b></sub></div>
 <br>
-
-<!-- Coding Profiles -->
-<div align="center">
-
-### <img src="https://img.shields.io/badge/CODING_PROFILES-7C3AED?style=for-the-badge&logo=code&logoColor=white" alt="Coding Profiles"/>
-
-</div>
 
 <p align="center">
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -330,30 +336,33 @@ Real-time data insight management with automated workflow operations and predict
 <a href="https://codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,100:7C3AED&height=3" width="100%"/>
 
-<!-- Connect -->
+<br>
+<a name="contact"></a>
+
 <div align="center">
 
-### <img src="https://img.shields.io/badge/CONNECT-7C3AED?style=for-the-badge&logo=mail&logoColor=white" alt="Connect"/>
+<img src="https://img.shields.io/badge/§_06-LET'S_CONNECT-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="Let's Connect"/>
+<br>
+<sub>OPEN FOR OPPORTUNITIES, COLLABORATIONS &amp; A GOOD CONVERSATION</sub>
 
-</div>
+<br><br>
 
-<p align="center">
-<a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/patilpreetvila"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<a href="https://www.linkedin.com/in/preet-patil-719866366/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-SAY%20HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/patilpreet"><img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br><br>
+
+<sub>▸ If you like what you see, consider starring some of my repos.</sub>
+
+<br><br>
+
+<sub><i>"The best way to predict the future is to invent it."</i> — Alan Kay</sub>
 
 <br>
 
-<!-- Footer -->
-<div align="center">
-
-*"The best way to predict the future is to invent it."* — Alan Kay
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B2E,100:2D1B69&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,50:1A1B2E,100:0D1117&height=110" width="100%"/>
 
 </div>
