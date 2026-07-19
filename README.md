@@ -332,7 +332,7 @@ A full-stack e-commerce web application with product listings, cart handling, an
 <a name="experience"></a>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=05%20-%20EXPERIENCE&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=WORK%20HISTORY%20%26%20ACADEMIC%20BACKGROUND&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="Experience" width="640"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:120C0A,100:9A2A0F&text=05-EXPERIENCE&fontColor=FF9640&fontSize=25&desc=OPEN%20FOR%20OPPORTUNITIES,%20COLLABORATIONS%20&%20A%20GOOD%20CONVERSATION&descSize=11&descAlignY=77" alt="Experience" width="640"/>
 </div>
 
 <br/>
@@ -402,7 +402,7 @@ A full-stack e-commerce web application with product listings, cart handling, an
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=06%20-%20LETS%20CONNECT&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=OPEN%20FOR%20OPPORTUNITIES%2C%20COLLABORATIONS%20%26%20A%20GOOD%20CONVERSATION&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="Lets Connect" width="640"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:120C0A,100:9A2A0F&text=06-LET'S%20CONNECT&fontColor=FF9640&fontSize=25&descSize=11&descAlignY=77" alt="Lets Connect" width="640"/>
 
 <br/><br/>
 
