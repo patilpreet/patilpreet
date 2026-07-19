@@ -1,55 +1,53 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1B2E,100:2D1B69&height=230&text=PREET%20PATIL&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%C2%B7%20FULL-STACK%20DEVELOPER%20%C2%B7%20PRODUCT%20ENGINEER&descSize=15&descAlign=50&descAlignY=62&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1A0800,50:9A2A0F,100:FF7A18&amp;height=230&amp;text=PREET%20PATIL&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=AI%2FML%20ENGINEER%20%C2%B7%20FULL-STACK%20DEVELOPER%20%C2%B7%20PRODUCT%20ENGINEER&amp;descSize=15&amp;descAlign=50&amp;descAlignY=62&amp;fontFamily=Poppins&amp;animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG — monospace, professional -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=%3E+building+intelligent+systems+that+ship;%3E+AI%20%2F%20ML+%C2%B7+full-stack+%C2%B7+product+engineering;%3E+shipping+with+LLMs+and+autonomous+agents" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=FFA94D&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=60&amp;lines=%3E+building+intelligent+systems+that+ship;%3E+AI%20%2F%20ML+%C2%B7+full-stack+%C2%B7+product+engineering;%3E+shipping+with+LLMs+and+autonomous+agents" alt="Typing SVG" />
 
-<br>
+<br/>
 
-<a href="https://github.com/patilpreet"><img src="https://komarev.com/ghpvc/?username=patilpreet&style=for-the-badge&color=7C3AED&label=PROFILE%20VIEWS&prefix=" alt="Profile Views" /></a>
-<a href="https://github.com/patilpreet?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7C3AED&label=FOLLOWERS&query=followers&url=https://api.github.com/users/patilpreet&logo=github&logoColor=white" alt="Followers" /></a>
-<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to Work" /></a>
+<a href="https://github.com/patilpreet"><img src="https://komarev.com/ghpvc/?username=patilpreet&amp;style=for-the-badge&amp;color=E8590C&amp;label=PROFILE%20VIEWS&amp;prefix=" alt="Profile Views" /></a>
+<a href="https://github.com/patilpreet?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;color=E8590C&amp;label=FOLLOWERS&amp;query=followers&amp;url=https://api.github.com/users/patilpreet&amp;logo=github&amp;logoColor=white" alt="Followers" /></a>
+<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-16A34A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open to Work" /></a>
 
-<br><br>
+<br/><br/>
 
 <!-- Nav Bar -->
-<a href="#about"><img src="https://img.shields.io/badge/01_ABOUT-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#stack"><img src="https://img.shields.io/badge/02_STACK-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#projects"><img src="https://img.shields.io/badge/03_PROJECTS-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#analytics"><img src="https://img.shields.io/badge/04_ANALYTICS-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#experience"><img src="https://img.shields.io/badge/05_EXPERIENCE-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a><a href="#contact"><img src="https://img.shields.io/badge/06_CONTACT-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1B2E"/></a>
+<a href="#about"><img src="https://img.shields.io/badge/01_ABOUT-120C0A?style=for-the-badge&amp;labelColor=120C0A&amp;color=2B1710"/></a><a href="#stack"><img src="https://img.shields.io/badge/02_STACK-120C0A?style=for-the-badge&amp;labelColor=120C0A&amp;color=2B1710"/></a><a href="#projects"><img src="https://img.shields.io/badge/03_PROJECTS-120C0A?style=for-the-badge&amp;labelColor=120C0A&amp;color=2B1710"/></a><a href="#analytics"><img src="https://img.shields.io/badge/04_ANALYTICS-120C0A?style=for-the-badge&amp;labelColor=120C0A&amp;color=2B1710"/></a><a href="#experience"><img src="https://img.shields.io/badge/05_EXPERIENCE-120C0A?style=for-the-badge&amp;labelColor=120C0A&amp;color=2B1710"/></a><a href="#contact"><img src="https://img.shields.io/badge/06_CONTACT-120C0A?style=for-the-badge&amp;labelColor=120C0A&amp;color=2B1710"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2D1B69&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:E8590C,100:7A1F0D&amp;height=3" width="100%"/>
 
-<br>
+<br/>
 <a name="about"></a>
 
 <div align="center">
-<img src="https://img.shields.io/badge/§_01-ABOUT_ME-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="About Me"/>
-<br>
-<sub>WHO I AM &amp; WHAT I'M BUILDING TOWARD</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=01%20-%20ABOUT%20ME&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=WHO%20I%20AM%20%26%20WHAT%20IM%20BUILDING%20TOWARD&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="About Me" width="640"/>
 </div>
 
-<br>
+<br/>
 
 <table align="center">
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://i.ibb.co/TxYvZwtp/cropped-circle-image.png" alt="Profile" width="170" style="border-radius: 50%; border: 3px solid #7C3AED;"/>
+<img src="https://i.ibb.co/VY1f1L88/973481275751415107.jpg" alt="Profile" width="170" style="border-radius: 50%; border: 3px solid #E8590C;"/>
 
-<br><br>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/preet-patil-719866366/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
-<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br>
-<a href="https://github.com/patilpreet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/preet-patil-719866366/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a><br/>
+<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a><br/>
+<a href="https://github.com/patilpreet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 
 </td>
 <td width="70%" valign="top">
 
 An ambitious and results-driven **AI/ML Student** and **Full-Stack Developer** with a rigorous product engineering mindset — specialized in architecting intelligent, data-driven systems and scalable web applications.
 
-<sub>▪ ▪ ▪&nbsp;&nbsp;<b>profile.yaml</b></sub>
+<sub>▪ ▪ ▪&#160;&#160;<b>profile.yaml</b></sub>
 
 ```yaml
 engineer:
@@ -66,7 +64,7 @@ engineer:
 
 **◆ CURRENT FOCUS**
 <sub>
-▸ Advanced Neural Network Architectures<br>
+▸ Advanced Neural Network Architectures<br/>
 ▸ Multi-agent AI Workflow Automation
 </sub>
 
@@ -75,7 +73,7 @@ engineer:
 
 **◆ CURRENTLY LEARNING**
 <sub>
-▸ Deep Reinforcement Learning<br>
+▸ Deep Reinforcement Learning<br/>
 ▸ Generative AI Engineering
 </sub>
 
@@ -87,96 +85,161 @@ engineer:
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<h3>02+</h3>
+<sub>YEARS BUILDING</sub>
+
+</td>
+<td align="center" width="25%">
+
+<h3>02</h3>
+<sub>LIVE PRODUCTS SHIPPED</sub>
+
+</td>
+<td align="center" width="25%">
+
+<h3>18+</h3>
+<sub>TECHNOLOGIES USED</sub>
+
+</td>
+<td align="center" width="25%">
+
+<h3>04</h3>
+<sub>CERTIFICATIONS EARNED</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=600&height=25&lines=%22Code+is+the+closest+thing+we+have+to+magic.%22" alt="quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=14&amp;duration=4000&amp;pause=2000&amp;color=6B7280&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=25&amp;lines=%22Code+is+the+closest+thing+we+have+to+magic.%22" alt="quote"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,100:7C3AED&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7A1F0D,100:E8590C&amp;height=3" width="100%"/>
 
-<br>
+<br/>
 <a name="stack"></a>
 
 <div align="center">
-<img src="https://img.shields.io/badge/§_02-TECH_ARSENAL-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="Tech Arsenal"/>
-<br>
-<sub>LANGUAGES · FRAMEWORKS · AI %2F ML · INFRASTRUCTURE</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=02%20-%20TECH%20ARSENAL&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=LANGUAGES%20%C2%B7%20FRAMEWORKS%20%C2%B7%20AI%2FML%20%C2%B7%20INFRASTRUCTURE&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="Tech Arsenal" width="640"/>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<sub><b>LANGUAGES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&amp;theme=dark" />
 
-<br><br>
+<br/><br/>
 
-<sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
+<sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&amp;theme=dark" />
 
-<br><br>
+<br/><br/>
 
-<sub><b>AI / ML</b></sub><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<sub><b>AI / ML</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&amp;theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
 
-<br><br>
+<br/><br/>
 
-<sub><b>DATABASES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
+<sub><b>DATABASES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&amp;theme=dark" />
 
-<br><br>
+<br/><br/>
 
-<sub><b>DEVOPS &amp; TOOLING</b></sub><br>
-<img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode&theme=dark" />
+<sub><b>DEVOPS &amp; TOOLING</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode&amp;theme=dark" />
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
 <sub><b>PROFICIENCY INDEX</b></sub>
 
-<br><br>
+<br/><br/>
 
-<img src="https://progress-bar.dev/80/?title=Python&width=280&color=7c3aed&title_color=eeeeee"/><br>
-<img src="https://progress-bar.dev/85/?title=React+%2F+Next.js&width=280&color=7c3aed&title_color=eeeeee"/><br>
-<img src="https://progress-bar.dev/75/?title=JavaScript+%2F+TypeScript&width=280&color=7c3aed&title_color=eeeeee"/><br>
-<img src="https://progress-bar.dev/70/?title=Machine+Learning&width=280&color=7c3aed&title_color=eeeeee"/><br>
-<img src="https://progress-bar.dev/75/?title=Node.js+%2F+Express&width=280&color=7c3aed&title_color=eeeeee"/><br>
-<img src="https://progress-bar.dev/65/?title=Databases&width=280&color=7c3aed&title_color=eeeeee"/><br>
-<img src="https://progress-bar.dev/55/?title=DevOps&width=280&color=7c3aed&title_color=eeeeee"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://progress-bar.dev/80/?title=Python&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/78/?title=JavaScript&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/72/?title=TypeScript&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/85/?title=HTML+%2F+CSS&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/>
+
+<br/><br/>
+
+<sub><b>FRAMEWORKS</b></sub><br/>
+<img src="https://progress-bar.dev/85/?title=React+%2F+Next.js&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/75/?title=Node.js+%2F+Express&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/80/?title=Tailwind+CSS&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/>
+
+</td>
+<td width="50%" valign="top">
+
+<sub><b>AI / ML</b></sub><br/>
+<img src="https://progress-bar.dev/68/?title=TensorFlow+%2F+PyTorch&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/75/?title=Scikit-Learn+%2F+Pandas+%2F+NumPy&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/>
+
+<br/><br/>
+
+<sub><b>DATABASES</b></sub><br/>
+<img src="https://progress-bar.dev/70/?title=MongoDB&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/60/?title=PostgreSQL&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/55/?title=Redis&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/>
+
+<br/><br/>
+
+<sub><b>DEVOPS &amp; TOOLING</b></sub><br/>
+<img src="https://progress-bar.dev/85/?title=Git&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/55/?title=Docker&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/><br/>
+<img src="https://progress-bar.dev/60/?title=AWS&amp;width=260&amp;color=e8590c&amp;title_color=eeeeee"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2D1B69&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:E8590C,100:7A1F0D&amp;height=3" width="100%"/>
 
-<br>
+<br/>
 <a name="projects"></a>
 
 <div align="center">
-<img src="https://img.shields.io/badge/§_03-FEATURED_PROJECTS-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="Featured Projects"/>
-<br>
-<sub>LIVE PRODUCTS I'VE SHIPPED AND DEPLOYED</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=03%20-%20FEATURED%20PROJECTS&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=LIVE%20PRODUCTS%20IVE%20SHIPPED%20AND%20DEPLOYED&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="Featured Projects" width="640"/>
 </div>
 
-<br>
+<br/>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="https://sub-ai-iota.vercel.app/"><img src="https://image.thum.io/get/width/500/crop/720/noanimate/https://sub-ai-iota.vercel.app/" alt="SubAI Preview" width="100%" style="border-radius: 10px; border: 1px solid #2D1B69;"/></a>
+<a href="https://sub-ai-iota.vercel.app/"><img src="https://image.thum.io/get/width/500/crop/720/noanimate/https://sub-ai-iota.vercel.app/" alt="SubAI Preview" width="100%" style="border-radius: 10px; border: 1px solid #7A1F0D;"/></a>
 
-<br><br>
+<br/><br/>
 
-<a href="https://sub-ai-iota.vercel.app/"><img src="https://img.shields.io/badge/●_LIVE-16A34A?style=for-the-badge&logoColor=white" alt="Live"/></a>
+<a href="https://sub-ai-iota.vercel.app/"><img src="https://img.shields.io/badge/●_LIVE-16A34A?style=for-the-badge&amp;logoColor=white" alt="Live"/></a>
 
 **SubAI — AI Captions for Indian Creators**
 
@@ -185,20 +248,20 @@ A browser-native caption studio that generates frame-accurate Hindi, English, an
 <sub>`Groq Whisper` `Speech-to-Text` `Hinglish NLP` `Next.js`</sub>
 
 <a href="https://sub-ai-iota.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live"/>
+<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-E8590C?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View Live"/>
 </a>
 <a href="https://github.com/patilpreet/SubAi">
-<img src="https://img.shields.io/badge/VIEW_CODE-1A1B2E?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+<img src="https://img.shields.io/badge/VIEW_CODE-2B1710?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Code"/>
 </a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<a href="https://assignment-1-genrage.vercel.app/"><img src="https://image.thum.io/get/width/500/crop/720/noanimate/https://assignment-1-genrage.vercel.app/" alt="Generage Preview" width="100%" style="border-radius: 10px; border: 1px solid #2D1B69;"/></a>
+<a href="https://assignment-1-genrage.vercel.app/"><img src="https://image.thum.io/get/width/500/crop/720/noanimate/https://assignment-1-genrage.vercel.app/" alt="Generage Preview" width="100%" style="border-radius: 10px; border: 1px solid #7A1F0D;"/></a>
 
-<br><br>
+<br/><br/>
 
-<a href="https://assignment-1-genrage.vercel.app/"><img src="https://img.shields.io/badge/●_LIVE-16A34A?style=for-the-badge&logoColor=white" alt="Live"/></a>
+<a href="https://assignment-1-genrage.vercel.app/"><img src="https://img.shields.io/badge/●_LIVE-16A34A?style=for-the-badge&amp;logoColor=white" alt="Live"/></a>
 
 **Generage — React E-Commerce Platform**
 
@@ -207,10 +270,10 @@ A full-stack e-commerce web application with product listings, cart handling, an
 <sub>`React` `E-Commerce` `REST API` `Full-Stack`</sub>
 
 <a href="https://assignment-1-genrage.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live"/>
+<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-E8590C?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View Live"/>
 </a>
 <a href="https://github.com/patilpreet/Assignment-1-GENRAGE-">
-<img src="https://img.shields.io/badge/VIEW_CODE-1A1B2E?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+<img src="https://img.shields.io/badge/VIEW_CODE-2B1710?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Code"/>
 </a>
 
 </td>
@@ -221,148 +284,142 @@ A full-stack e-commerce web application with product listings, cart handling, an
 <sub>▸ Check out my <a href="https://github.com/patilpreet?tab=repositories">full repository catalog</a> for more.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,100:7C3AED&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7A1F0D,100:E8590C&amp;height=3" width="100%"/>
 
-<br>
+<br/>
 <a name="analytics"></a>
 
 <div align="center">
-<img src="https://img.shields.io/badge/§_04-GITHUB_ANALYTICS-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="GitHub Analytics"/>
-<br>
-<sub>ACTIVITY, LANGUAGES &amp; CONTRIBUTION HISTORY</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=04%20-%20GITHUB%20ANALYTICS&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=ACTIVITY%2C%20LANGUAGES%20%26%20CONTRIBUTION%20HISTORY&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="GitHub Analytics" width="640"/>
 </div>
 
-<br>
+<br/>
 
 <table align="center">
 <tr>
 <td align="center">
-<a href="https://github.com/patilpreet"><img src="https://github-readme-stats.vercel.app/api?username=patilpreet&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&border_color=2D1B69&count_private=true" alt="GitHub Stats" width="400"/></a>
+<a href="https://github.com/patilpreet"><img src="https://github-readme-stats.vercel.app/api?username=patilpreet&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=120C0A&amp;title_color=FFA94D&amp;icon_color=E8590C&amp;border_color=7A1F0D&amp;count_private=true" alt="GitHub Stats" width="400"/></a>
 </td>
 <td align="center">
-<a href="https://github.com/patilpreet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=patilpreet&theme=tokyonight&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280" alt="GitHub Streak" width="400"/></a>
+<a href="https://github.com/patilpreet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=patilpreet&amp;theme=tokyonight&amp;background=120C0A&amp;ring=FFA94D&amp;fire=E8590C&amp;currStreakLabel=FFA94D&amp;sideLabels=FFA94D&amp;dates=6B7280" alt="GitHub Streak" width="400"/></a>
 </td>
 </tr>
 </table>
 
 <p align="center">
-<a href="https://github.com/patilpreet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilpreet&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&border_color=2D1B69&langs_count=8" alt="Top Languages" width="420"/></a>
+<a href="https://github.com/patilpreet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilpreet&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=120C0A&amp;title_color=FFA94D&amp;border_color=7A1F0D&amp;langs_count=8" alt="Top Languages" width="420"/></a>
 </p>
 
 <details>
 <summary align="center"><b>▸ GitHub Trophies</b></summary>
-<br>
+<br/>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=patilpreet&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=patilpreet&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="GitHub Trophies" width="100%"/>
 </p>
 </details>
 
 <details>
 <summary align="center"><b>▸ Contribution Activity</b></summary>
-<br>
+<br/>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilpreet&theme=tokyonight&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=2D1B69&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilpreet&amp;theme=tokyonight&amp;bg_color=120C0A&amp;color=FFA94D&amp;line=E8590C&amp;point=FFFFFF&amp;area_color=7A1F0D&amp;area=true&amp;hide_border=false&amp;custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
 </p>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2D1B69&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:E8590C,100:7A1F0D&amp;height=3" width="100%"/>
 
-<br>
+<br/>
 <a name="experience"></a>
 
 <div align="center">
-<img src="https://img.shields.io/badge/§_05-EXPERIENCE-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="Experience"/>
-<br>
-<sub>WORK HISTORY &amp; ACADEMIC BACKGROUND</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=05%20-%20EXPERIENCE&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=WORK%20HISTORY%20%26%20ACADEMIC%20BACKGROUND&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="Experience" width="640"/>
 </div>
 
-<br>
+<br/>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
 **AI &amp; No-Code Intern**
-<sub>Elite Forums &nbsp;·&nbsp; May 2026 – Aug 2026</sub>
+<sub>Elite Forums &#160;·&#160; May 2026 – Aug 2026</sub>
 
 <sub>
-▸ Led state-of-the-art research on emerging AI algorithms<br>
-▸ Analyzed key performance indicators across data ecosystems<br>
-▸ Developed scalable cross-department task-delegation architectures<br>
+▸ Led state-of-the-art research on emerging AI algorithms<br/>
+▸ Analyzed key performance indicators across data ecosystems<br/>
+▸ Developed scalable cross-department task-delegation architectures<br/>
 ▸ Partnered with HR to deploy strategic digital workflow tools
 </sub>
 
-<br><br>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-1A1B2E?style=flat-square&color=1A1B2E&labelColor=7C3AED"/> <img src="https://img.shields.io/badge/NO--CODE-1A1B2E?style=flat-square&color=1A1B2E&labelColor=7C3AED"/> <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-1A1B2E?style=flat-square&color=1A1B2E&labelColor=7C3AED"/> <img src="https://img.shields.io/badge/PROJECT%20MGMT-1A1B2E?style=flat-square&color=1A1B2E&labelColor=7C3AED"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-2B1710?style=flat-square&amp;color=2B1710&amp;labelColor=E8590C"/> <img src="https://img.shields.io/badge/NO--CODE-2B1710?style=flat-square&amp;color=2B1710&amp;labelColor=E8590C"/> <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-2B1710?style=flat-square&amp;color=2B1710&amp;labelColor=E8590C"/> <img src="https://img.shields.io/badge/PROJECT%20MGMT-2B1710?style=flat-square&amp;color=2B1710&amp;labelColor=E8590C"/>
 
 </td>
 <td width="50%" valign="top">
 
 **Engineering Student**
-<sub>Bhausaheb Vartak Polytechnic &nbsp;·&nbsp; Jun 2024 – Apr 2027</sub>
+<sub>Bhausaheb Vartak Polytechnic &#160;·&#160; Jun 2024 – Apr 2027</sub>
 
 <sub>
-▸ Navigated multi-tier academic and industrial software modules<br>
-▸ Contributed high-impact foundational ideas across project teams<br>
+▸ Navigated multi-tier academic and industrial software modules<br/>
+▸ Contributed high-impact foundational ideas across project teams<br/>
 ▸ Collaborated inside multi-disciplinary engineering circles
 </sub>
 
-<br><br>
-<img src="https://img.shields.io/badge/MERN%20STACK-1A1B2E?style=flat-square&color=1A1B2E&labelColor=16A34A"/> <img src="https://img.shields.io/badge/WEB%20DEV-1A1B2E?style=flat-square&color=1A1B2E&labelColor=16A34A"/> <img src="https://img.shields.io/badge/DATA%20STRUCTURES-1A1B2E?style=flat-square&color=1A1B2E&labelColor=16A34A"/> <img src="https://img.shields.io/badge/TEAM%20COLLAB-1A1B2E?style=flat-square&color=1A1B2E&labelColor=16A34A"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/MERN%20STACK-2B1710?style=flat-square&amp;color=2B1710&amp;labelColor=16A34A"/> <img src="https://img.shields.io/badge/WEB%20DEV-2B1710?style=flat-square&amp;color=2B1710&amp;labelColor=16A34A"/> <img src="https://img.shields.io/badge/DATA%20STRUCTURES-2B1710?style=flat-square&amp;color=2B1710&amp;labelColor=16A34A"/> <img src="https://img.shields.io/badge/TEAM%20COLLAB-2B1710?style=flat-square&amp;color=2B1710&amp;labelColor=16A34A"/>
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
 <div align="center"><sub><b>CERTIFICATIONS</b></sub></div>
-<br>
+<br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-Academy%20Graduate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/NPTEL-AI%20%26%20ML-004B87?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NPTEL"/>
-<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1B365D?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+<img src="https://img.shields.io/badge/AWS-Academy%20Graduate-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/NPTEL-AI%20%26%20ML-004B87?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="NPTEL"/>
+<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1B365D?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco"/>
 </p>
 
 <div align="center"><sub><b>CODING PROFILES</b></sub></div>
-<br>
+<br/>
 
 <p align="center">
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
-<a href="https://hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/></a>
+<a href="https://geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="GFG"/></a>
+<a href="https://hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" alt="HackerRank"/></a>
+<a href="https://codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,100:7C3AED&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7A1F0D,100:E8590C&amp;height=3" width="100%"/>
 
-<br>
+<br/>
 <a name="contact"></a>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/§_06-LET'S_CONNECT-7C3AED?style=for-the-badge&labelColor=0D1117&fontFamily=Poppins" alt="Let's Connect"/>
-<br>
-<sub>OPEN FOR OPPORTUNITIES, COLLABORATIONS &amp; A GOOD CONVERSATION</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=06%20-%20LETS%20CONNECT&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=OPEN%20FOR%20OPPORTUNITIES%2C%20COLLABORATIONS%20%26%20A%20GOOD%20CONVERSATION&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="Lets Connect" width="640"/>
 
-<br><br>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/preet-patil-719866366/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-SAY%20HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/patilpreet"><img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/preet-patil-719866366/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:patilpreetvila@gmail.com"><img src="https://img.shields.io/badge/Gmail-SAY%20HELLO-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://github.com/patilpreet"><img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
 
-<br><br>
+<br/><br/>
 
 <sub>▸ If you like what you see, consider starring some of my repos.</sub>
 
-<br><br>
+<br/><br/>
 
 <sub><i>"The best way to predict the future is to invent it."</i> — Alan Kay</sub>
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,50:1A1B2E,100:0D1117&height=110" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7A1F0D,50:2B1710,100:120C0A&amp;height=110" width="100%"/>
 
 </div>
