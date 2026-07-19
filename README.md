@@ -25,7 +25,7 @@
 <a name="about"></a>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=01%20-%20ABOUT%20ME&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=WHO%20I%20AM%20%26%20WHAT%20IM%20BUILDING%20TOWARD&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="About Me" width="640"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:120C0A,100:9A2A0F&text=01-ABOUT%20ME&fontColor=FF9640&fontSize=25&descSize=11&descAlignY=77" alt="About Me" width="640"/>
 </div>
 
 <br/>
@@ -34,7 +34,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://i.ibb.co/VY1f1L88/973481275751415107.jpg" alt="Profile" width="170" style="border-radius: 50%; border: 3px solid #E8590C;"/>
+<img src="https://i.ibb.co/gLmjGrJH/cropped-circle-image.png" alt="Profile" width="170" style="border-radius: 50%; border: 3px solid #E8590C;"/>
 
 <br/><br/>
 
@@ -290,7 +290,7 @@ A full-stack e-commerce web application with product listings, cart handling, an
 <a name="analytics"></a>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:120C0A,100:9A2A0F&amp;height=70&amp;text=04%20-%20GITHUB%20ANALYTICS&amp;fontSize=26&amp;fontColor=FF9640&amp;fontAlign=50&amp;fontAlignY=62&amp;fontFamily=Poppins&amp;desc=ACTIVITY%2C%20LANGUAGES%20%26%20CONTRIBUTION%20HISTORY&amp;descSize=11&amp;descAlign=50&amp;descAlignY=85&amp;descColor=B8B8B8" alt="GitHub Analytics" width="640"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:120C0A,100:9A2A0F&text=04-GITHUB-ANALYSIS&fontColor=FF9640&fontSize=25&descSize=11&descAlignY=77" alt="GitHub Analytics" width="640"/>
 </div>
 
 <br/>
